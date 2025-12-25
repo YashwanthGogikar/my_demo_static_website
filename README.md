@@ -1,6 +1,3 @@
-# my_demo_static_website
-this is a demo statically hosted website
-
 # My static Portfolio Website
 This repository contains an portfolio website hosted, built using HTML and CSS and is designed to showcase skills, professional experience as a resume.
 
